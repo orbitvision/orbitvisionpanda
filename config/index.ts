@@ -3,8 +3,8 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Panda Robot',
-  description: 'I am Panda Robot! I am an robot that want to change the world!',
+  title: 'Panda',
+  description: 'I am Panda!',
   copyright: 'OrbitVision',
   privacy_policy: '',
   default_language: 'en',
