@@ -3,10 +3,10 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Panda',
-  description: 'I am Panda!',
+  title: 'OrbitVision AI',
+  description: 'I am OrbitVision AI! An AI Assistant built by OrbitVision',
   copyright: 'OrbitVision',
-  privacy_policy: '',
+  privacy_policy: 'https://orbitvisionofficial.vercel.app/#privacy',
   default_language: 'en',
 }
 
